@@ -1,4 +1,7 @@
-# Python-for-Finance
+# :snake: Python-for-Finance
 
 **Contributors:**
-Hammad Rashid
+
+:man: Hammad Rashid
+
+
